@@ -10,4 +10,28 @@ h1 {
   color: #333;
 }
 
+span {
+  font-weight: bold;
+}
 
+li {
+  border: solid 1px green;
+  max-width: 500px;
+  display: flex;
+  padding: 10px;
+}
+
+.image {
+  width: 80px;
+  height: 80px;
+}
+
+.mainData {
+  border: solid 1px black;
+  
+}
+
+.address {
+  display: flex;
+  border:  solid 1px red;
+}
